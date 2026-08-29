@@ -14,10 +14,8 @@ For a better experience, while using our Service, I may require you to provide u
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+Link to the privacy policy of third-party service providers used by the ap
+*   
 
 **Log Data**
 
